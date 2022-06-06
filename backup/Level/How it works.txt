@@ -1,0 +1,11 @@
+image not freed
+tiles are wrong
+order is wrong
+
+bpm structire:
+	r : type
+	g : tile
+	b : layer 2 - object - collision (dependent on type)
+
+objects 128 :
+	Door: 80

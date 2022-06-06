@@ -1,0 +1,69 @@
+﻿  pch.cpp
+  BasicBehaviour.cpp
+  Boss.cpp
+  Bullet.cpp
+  BulletManager.cpp
+  Button.cpp
+  Camera.cpp
+  Chest.cpp
+  Core.cpp
+  DungeonDoor.cpp
+  DungeonDoorVerti.cpp
+  Enemy.cpp
+  E_Fiery.cpp
+  E_Grum.cpp
+  E_Mini.cpp
+  E_Pum.cpp
+  E_Richard.cpp
+  E_Tato.cpp
+  Game.cpp
+  Gun.cpp
+  Image.cpp
+  Compiling...
+  main.cpp
+  MainScene.cpp
+  Matrix2x3.cpp
+  MenuScene.cpp
+  Object.cpp
+  Player.cpp
+  RoomHandler.cpp
+  Scene.cpp
+  SoundEffect.cpp
+  SoundManager.cpp
+  SoundStream.cpp
+  structs.cpp
+  SVGParser.cpp
+  Table.cpp
+  Texture.cpp
+  Tile.cpp
+  UITextWriter.cpp
+  utils.cpp
+  Vector2f.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1887 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  1DAE11-FinalGameP2.vcxproj -> C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Release\1DAE11-FinalGameP2.exe
+  COPY THE DLL FILES
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2-2.0.10\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\libjpeg-9.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\libpng16-16.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\libtiff-5.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\libwebp-7.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\SDL2_image.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_image-2.0.5\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libFLAC-8.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libmodplug-1.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libmpg123-0.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libogg-0.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libopus-0.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libopusfile-0.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libvorbis-0.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\libvorbisfile-3.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_mixer-2.0.4\lib\x86\SDL2_mixer.dll
+  9 File(s) copied
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_ttf-2.0.15\lib\x86\libfreetype-6.dll
+  C:\Users\Gebruiker\OneDrive - Hogeschool West-Vlaanderen\Bureaublad\P2Game\backup\Libraries\SDL2_ttf-2.0.15\lib\x86\SDL2_ttf.dll
+  2 File(s) copied

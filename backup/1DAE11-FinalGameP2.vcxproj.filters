@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Extra code Files">
+      <UniqueIdentifier>{2836a6b3-3329-4e42-9c19-cd274ece96bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects-cpp">
+      <UniqueIdentifier>{b59c1b51-9ea3-41a8-b4c6-b1c7f909cfd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Objects-h">
+      <UniqueIdentifier>{f1714876-b1e2-444d-af54-7982175e803a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UITextWriter.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicBehaviour.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Chest.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonDoor.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonDoorVerti.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Fiery.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Grum.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Mini.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Pum.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Richard.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="E_Tato.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix2x3.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomHandler.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundEffect.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundStream.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structs.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SVGParser.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2f.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Extra code Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files\Objects-cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image_write.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColourToObject.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameVariables.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextWriter.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicBehaviour.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Chest.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonDoor.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonDoorVerti.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Fiery.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Grum.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Mini.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Pum.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Richard.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="E_Tato.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectTypes.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2f.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dirent.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix2x3.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundEffect.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundStream.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SVGParser.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Extra code Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Header Files\Objects-h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Level\R0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level\R1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level\R2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level\R3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level\R4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level\R5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\AmmoSprites.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\BaseTile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\characters.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Dungeon_Tileset.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Dungeon_TilesetCheatSheet.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\exit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Font.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Heart.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\options.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\play.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Player.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\viewBall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\WallTile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\50cal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\BaseTile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\bullet.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\Chest.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\Chest2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\Door.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\DoorV.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Fiery.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Grum.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Kato.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Mini.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Pum.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Richard.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\E_Tato.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\Objects\Table.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\1s1k.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\angry_rabbit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\desert_hawk.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\gh55b.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\gs49.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\hitpro.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\jb007.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\m500.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\mag.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\md5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\mg5000.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\mg6000.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\milit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\P20.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\piecemarker.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\pn21.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\poshlinov.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\pow9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\pwn3r.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\raging_pitbull.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\seven-seven.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\sg1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\sg2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\snp6plus.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\storm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\guns\x90.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\Sound\FieryShoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sound\GrumShoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Resources\Sound\PlayerShoot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDLWin32.props" />
+    <None Include="SDLx64.props" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\guns\GunStats.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
